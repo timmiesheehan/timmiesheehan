@@ -5,31 +5,13 @@
 </p>
 
 ## Specialties
-- PHP
-- Java
-- MySQL
-- Javascript
-- jQuery
-- WordPress
-- Magento
-- Expression Engine
-- Drupal
-- Joomla
-- Opencart
-- SEO
-- React
-- Angular
-- Video Editing
-- Photoshop
-- MySQL
-- Linux 
 
 | Code | Javascript | CMS |
 | --- | --- | --- |
 | PHP | Vanilla JS | WordPress |
 | Java | React | Opencart |
 | MySQL | Vue | Drupal |
-|   | Angular | Magento |
+|   | Node | Magento |
 |   | jQuery | Expression Engine |
 
 

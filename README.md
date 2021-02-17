@@ -23,6 +23,17 @@
 - Photoshop
 - MySQL
 - Linux 
+
+| Code | Javascript | CMS |
+| --- | --- | --- |
+| PHP | Vanilla JS | WordPress |
+| Java | React | Opencart |
+| MySQL | Vue | Drupal |
+|   | Angular | Magento |
+|   | jQuery | Expression Engine |
+
+
+
 <!--
 **timmiesheehan/timmiesheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

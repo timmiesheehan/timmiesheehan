@@ -1,4 +1,4 @@
-<p>I'm passionate about everything digital. I love developing applications using various types of technology. For web development WordPress, Opencart, Drupal, Expression Engine and Magento are the primary platforms that I use as content management systems but am always looking for new and better ways of creating.
+<p>I love developing applications using various types of technology. For web development WordPress, Opencart, Drupal, Expression Engine and Magento are the primary platforms that I use as content management systems but am always looking for new and better ways of creating.
 </p>
 
 
